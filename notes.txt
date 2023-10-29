@@ -1,0 +1,71 @@
+task 1
+1) declare the variables and without assign a value and print them?
+var a;
+var b;
+var c;
+var d;
+Console.log(a,b,c,d);
+output is undefiend,
+2)How to get value of the variable myvar as output
+var myvar= 1;
+console.log(myvar);
+output is 1,
+3)Declare variables to store your first name, last name, marital status, country and age in 
+multiple lines
+ans
+var firstname="mohanapriya";
+ var lastname="thirumurugan";
+ var maritalstaus="single";
+var country="india";
+var age=5;// if we call any value in console
+console.log(age,country )
+india ,5
+
+4)let firstName = "mohanapriya", 
+    lastName = "thirumurugan", 
+    maritalStatus = "single", 
+    country = "india", 
+    age = 20; // Replace with your actual age
+    console.log(firstName);
+    output is mohanapriya,
+5)var a="mohana";//for string
+ var b=true;// boolean
+ var c;//undefined
+ var d=null;// for null data type
+
+6) three method is correct
+
+string to number"5"
+
+var a="5";
+var b= parseInt(a);
+console.log(b);
+7) foe ture statement
+
+if (true) {
+    console.log("This is truthy.");
+}
+
+if ("Hello, world!") {
+    console.log("This is truthy.");
+}
+
+if (42) {
+    console.log("This is truthy.");
+}
+
+
+if (false) {
+    console.log("This is falsy.");
+}
+
+if ("") {
+    console.log("This is falsy.");
+}
+
+if (0) {
+    console.log("This is falsy.");
+}
+
+
+
